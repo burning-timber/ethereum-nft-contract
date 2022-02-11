@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/burning-timber/ethereum-nft-contract#readme",
   "dependencies": {
-    "@openzeppelin/contracts": "^3.0.1"
+    "@openzeppelin/contracts": "^4.4.2"
   }
 }
